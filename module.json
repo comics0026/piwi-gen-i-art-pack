@@ -1,0 +1,34 @@
+{
+  "id": "piwi-gen-i-art-pack",
+  "title": "PIWI - Gen I - Art Pack",
+  "version": "1.0.0",
+  "manifest": "https://github.com/comics0026/piwi-gen-i-art-pack/releases/latest/download/module.json",
+  "download": "https://github.com/comics0026/piwi-gen-i-art-pack/releases/download/1.0.0/module.zip",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>Art Part for the Item Collection PIWI - Gen I</p>",
+  "authors": [
+    {
+      "name": "Christoper J Foster",
+      "email": "ForesterDesigns@gmail.com",
+      "url": "https://www.patreon.com/c/ForesterDesigns",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "piwi-gen-i",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "scripts": [
+    "main.js"
+  ],
+  "url": "https://www.patreon.com/c/ForesterDesigns",
+  "flags": {}
+}
